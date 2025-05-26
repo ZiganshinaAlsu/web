@@ -6,3 +6,6 @@ https://docs.google.com/spreadsheets/d/1U3EDBct6wAL0CPmhdLTRhPBtXcosFtWgfMFAT3G_
 
 Чек-лист для блоков Cart Management и Order Management
 https://docs.google.com/spreadsheets/d/1iKjAvgNJVjE2KtnYklfuVbg8JRD51Yqzu9MtOtPmoyc/edit?gid=0#gid=0
+
+Выгрузка тестовых сценариев для блоков Cart Management и Order Management
+https://github.com/ZiganshinaAlsu/web/blob/main/G10-2025-05-26.pdf
